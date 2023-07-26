@@ -13,13 +13,16 @@
 .ms_bg_navbar{
     background-color: var(--bg-footer-bottom);
 }
-.contacts{
+/* .contacts{
     background-color: white;
     width: 100%;
-    height: 500px;
+    height: 500px; */
+/* } */
+
+.ms_btn_green{
+    background-color: var(--bg-teal);
+    color: white;
 }
-
-
 .ms_img_cover{
     width: 200px;
     object-fit: cover;
