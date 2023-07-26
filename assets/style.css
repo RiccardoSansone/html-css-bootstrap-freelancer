@@ -9,16 +9,9 @@
     --bg-footer-top:#3a546d;
     --bg-footer-bottom:#2c3e50;
 }
-
 .ms_bg_navbar{
     background-color: var(--bg-footer-bottom);
 }
-/* .contacts{
-    background-color: white;
-    width: 100%;
-    height: 500px; */
-/* } */
-
 .ms_btn_green{
     background-color: var(--bg-teal);
     color: white;
